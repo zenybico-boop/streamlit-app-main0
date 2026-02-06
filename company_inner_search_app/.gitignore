@@ -129,7 +129,6 @@ HEAD
 .pdm-python
 .pdm-build/
 
-=======
 #poetry.toml
 
 # pdm
@@ -148,7 +147,7 @@ HEAD
 #   in the .venv directory. It is recommended not to include this directory in version control.
 .pixi
 
->>>>>>> f43d9bc84e2e2efbc2bc845f2afdc1cefbae7ca9
+f43d9bc84e2e2efbc2bc845f2afdc1cefbae7ca9
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 __pypackages__/
 
@@ -243,4 +242,4 @@ logs/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
->>>>>>> f43d9bc84e2e2efbc2bc845f2afdc1cefbae7ca9
+f43d9bc84e2e2efbc2bc845f2afdc1cefbae7ca9
