@@ -1,10 +1,10 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-<<<<<<< HEAD
+HEAD
 *.py[cod]
-=======
+
 *.py[codz]
->>>>>>> f43d9bc84e2e2efbc2bc845f2afdc1cefbae7ca9
+f43d9bc84e2e2efbc2bc845f2afdc1cefbae7ca9
 *$py.class
 
 # C extensions
@@ -50,11 +50,11 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
-<<<<<<< HEAD
+HEAD
 *.py,cover
-=======
+
 *.py.cover
->>>>>>> f43d9bc84e2e2efbc2bc845f2afdc1cefbae7ca9
+f43d9bc84e2e2efbc2bc845f2afdc1cefbae7ca9
 .hypothesis/
 .pytest_cache/
 cover/
@@ -102,22 +102,22 @@ ipython_config.py
 #   install all needed dependencies.
 #Pipfile.lock
 
-<<<<<<< HEAD
-=======
+HEAD
+
 # UV
 #   Similar to Pipfile.lock, it is generally recommended to include uv.lock in version control.
 #   This is especially recommended for binary packages to ensure reproducibility, and is more
 #   commonly ignored for libraries.
 #uv.lock
 
->>>>>>> f43d9bc84e2e2efbc2bc845f2afdc1cefbae7ca9
+f43d9bc84e2e2efbc2bc845f2afdc1cefbae7ca9
 # poetry
 #   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
 #   This is especially recommended for binary packages to ensure reproducibility, and is more
 #   commonly ignored for libraries.
 #   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
 #poetry.lock
-<<<<<<< HEAD
+HEAD
 
 # pdm
 #   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
@@ -203,7 +203,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-<<<<<<< HEAD
+HEAD
 # original
 .chroma/
 logs/
@@ -212,7 +212,7 @@ env/
 __pycache__/
 logs/
 .chroma/
-=======
+
 # Abstra
 # Abstra is an AI-powered process automation framework.
 # Ignore directories containing user credentials, local state, and settings.
