@@ -27,6 +27,9 @@ import constants as ct
 # 「.env」ファイルで定義した環境変数の読み込み
 load_dotenv()
 
+# Ensure OpenAI API key works on Streamlit Cloud
+if "OPENAI_API_KEY" in st.secrets:
+    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 ############################################################
 # 関数定義
