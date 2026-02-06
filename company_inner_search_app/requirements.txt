@@ -1,17 +1,28 @@
 streamlit==1.41.1
-python-dotenv
+python-dotenv==1.0.1
 
+# LangChain stack (keep versions aligned)
 langchain==0.3.20
 langchain-core==0.3.41
-langchain-openai==0.2.3
 langchain-community==0.3.10
+langchain-openai==0.2.3
 
-openai
-tiktoken
+# OpenAI + tokenization
+openai==1.63.2
+tiktoken==0.8.0
 
-chromadb
-pymupdf
-python-docx
+# Vector DB / embeddings store
+chromadb==0.5.23
 
+# Document loaders
+pymupdf==1.24.11
+docx2txt==0.8
+python-docx==1.1.2
+
+# WebBaseLoader HTML parsing dependencies
+beautifulsoup4==4.12.3
+lxml==5.3.0
+
+# Data / numeric
 numpy<2
-pandas
+pandas==2.2.3
