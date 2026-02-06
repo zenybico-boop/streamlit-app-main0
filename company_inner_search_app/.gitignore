@@ -161,10 +161,10 @@ celerybeat.pid
 
 # Environments
 .env
-<<<<<<< HEAD
-=======
+HEAD
+
 .envrc
->>>>>>> f43d9bc84e2e2efbc2bc845f2afdc1cefbae7ca9
+f43d9bc84e2e2efbc2bc845f2afdc1cefbae7ca9
 .venv
 env/
 venv/
