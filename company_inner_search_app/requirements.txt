@@ -1,0 +1,17 @@
+streamlit==1.41.1
+python-dotenv
+
+langchain==0.3.20
+langchain-core==0.3.41
+langchain-openai==0.2.3
+langchain-community==0.3.10
+
+openai
+tiktoken
+
+chromadb
+pymupdf
+python-docx
+
+numpy<2
+pandas
